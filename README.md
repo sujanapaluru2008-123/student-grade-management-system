@@ -24,6 +24,6 @@ python grade_system.py
 ## Example Output
 
 STUDENT GRADE REPORT
-Student Name : Ravi
-Average : 84.33
-Grade : B
+- Student Name : Ravi
+- Average : 84.33
+- Grade : B
