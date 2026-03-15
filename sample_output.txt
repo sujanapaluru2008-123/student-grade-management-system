@@ -1,0 +1,17 @@
+STUDENT GRADE REPORT
+---------------------
+Student Name:  Ravi
+Marks       :  [78, 85, 90]
+Average     :  84.33
+Grade       :  B
+--------------------
+Student Name:  Sita
+Marks       :  [88, 79, 92]
+Average     :  86.33
+Grade       :  B
+--------------------
+Student Name:  Lisa
+Marks       :  [60, 70, 99]
+Average     :  76.33
+Grade       :  B
+--------------------
